@@ -15,4 +15,10 @@ public class GameManager : Singlton<GameManager>
     {
         
     }
+
+    public void SpawnPlayer(Transform spawnPoint)
+    {
+
+    }
+
 }
