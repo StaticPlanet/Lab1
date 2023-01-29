@@ -8,7 +8,7 @@ public class Character : MonoBehaviour
 {
     public float moveSpeed = 10.0f;
     public float gravity = 9.81f;
-    public float jumpSpeed = 10.0f;
+    public float jumpSpeed = 20.0f;
 
     CharacterController controller;
     Vector3 moveDir;
